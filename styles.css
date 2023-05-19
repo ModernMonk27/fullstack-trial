@@ -1,0 +1,45 @@
+#intro {
+  background-color:rgba(0, 255, 213, 0.699);
+  height:auto;
+  width: auto;
+
+
+}
+#intro > p {
+  background-color: rgba(70, 167, 41, 0.658);
+}
+
+#intro > button {
+
+  background-color: rgba(11, 11, 180, 0.829);
+}
+
+#intro > button:hover {
+  background-color: aliceblue;
+}
+
+#intro > h1{
+  font-size: 50px;
+  text-align: center;
+  text-decoration-color: blue;
+  background-color: blueviolet;
+}
+
+#green {
+  background-color: brown;
+  height:100px ;
+  text-align: center;
+  font-size: 80px;
+}
+ul {
+  height: 60px;
+  background-color: chocolate;
+}
+table {
+  height: 50px;
+  background-color:rgb(74, 122, 196);
+}
+.life {
+  background-color: rgba(197, 197, 168, 0.685);
+  text-decoration-color: antiquewhite;
+}
